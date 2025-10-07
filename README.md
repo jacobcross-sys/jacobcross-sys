@@ -1,4 +1,4 @@
-# Hi, I'm <Jacob Cross> 👋
+# Hi, I'm Jacob Cross 👋
 **PRCTC Junior — Cybersecurity & Networking**
 
 - 📚 Currently studying: A+, Network+, Linux basics, Packet Tracer labs, Windows & Linux hardening
